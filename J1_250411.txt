@@ -10,21 +10,9 @@ https://stream1.freetv.fun/aab1e3c651061ddc2ce266030239f13d8d808461e910a16ce9d60
 https://stream1.freetv.fun/1c0223fe93d3aaca762184373a28af2c274b504a8af9798d4aa3d06c65de3260.m3u8
 #EXTINF:-1 tvg-name="J1h" tvg-id="g" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1",[BD]hJ1
 https://stream1.freetv.fun/44bd1ba645adb14b4f6ea64c0fd9764c02a373898e39bff7c06dc9afe931053d.m3u8
-#EXTINF:-1 tvg-name="J1i" tvg-id="h" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1",[BD]iJ1
-https://stream1.freetv.fun/bcc3b37d4563a9b1907324fc914e8a5f60d904fd6e0edaea3c4b63c356c57a55.m3u8
-#EXTINF:-1 tvg-name="J1j" tvg-id="i" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1",[BD]jJ1 [no sound]
-https://stream1.freetv.fun/ad698c68f995a760534e836438ea8e8bc65abf16cd0ed1d6b8e005cd9b90913c.m3u8
-#EXTINF:-1 tvg-name="J1k" tvg-id="j" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1",[BD]kJ1[geo-blocked]
-https://stream1.freetv.fun/ff3205f993bc272535d52c71efd9827d5eeb120b4902f091037e43ad269923b0.m3u8
-#EXTINF:-1 tvg-name="J1l" tvg-id="k" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1",[BD]lJ1[geo-blocked]
-https://stream1.freetv.fun/6af904ba55a75ef8114a81f9fb117be987e8a4e987e4182a5e80fa91202ebdc6.ctv
 #EXTINF:-1 tvg-name="J1m" tvg-id="h" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1",[BD]mJ1
 https://stream1.freetv.fun/27d95560cab18388266a2a642b0940245e7317bd2c6aa442e29f2c5e0f419d92.m3u8
 #EXTINF:-1 tvg-name="J1n" tvg-id="l" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1",[BD]nJ1[geo-blocked]
 https://stream1.freetv.fun/88b1452f644cbc969aa8a71b5d0bcea0df0396f26cd94edb67424dd73b810883.m3u8
 #EXTINF:-1 tvg-name="J1o" tvg-id="j" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1",[BD]oJ1[geo-blocked]
 https://stream1.freetv.fun/3bd92ecf4addfeef82a8c52473660ae86f785172a1be2f7fb17b1930165cf4de.m3u8
-#EXTINF:-1 tvg-name="J1b" tvg-id="a" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1",[BD]bJ1[geo-blocked]
-https://stream1.freetv.fun/ba009d94229ed40a5d9289178463fba7aa31fb0622f8ab2d66c01147828743ab.m3u8
-#EXTINF:-1 tvg-name="J1c" tvg-id="b" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1",[BD]cJ1[geo-blocked]
-https://stream1.freetv.fun/9d4fa7779c923ec2103a461f5d8c22275532ee65b176d1c476ce727188ee512f.m3u8
