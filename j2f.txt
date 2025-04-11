@@ -5,15 +5,15 @@ https://stream1.freetv.fun/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc4
 https://stream1.freetv.fun/35be49526efe9576baa6ecdfacd7c7b7a91e12d4991a5c65bebfe97313d8aa81.ctv
 #EXTINF:-1 tvg-name="J2c" tvg-id="3" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J2",[BD]J2[geo-blocked]
 https://stream1.freetv.fun/0588a4627434f713ed54f5f3c49d0b4820136436b66cda56f8238b06306a20e6.m3u8
-#EXTINF:-1 tvg-name="J2d" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J2",[BD]J2
+#EXTINF:-1 tvg-name="J2d" tvg-id="4" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J2",[BD]J2
 https://stream1.freetv.fun/b996dd550768a18d19dbc153fa89886a83e077c384455daea3beea366092c826.ctv
-#EXTINF:-1 tvg-name="J2e" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J2",[VGA]J2
+#EXTINF:-1 tvg-name="J2e" tvg-id="5" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J2",[VGA]J2
 https://stream1.freetv.fun/fec834be45394d12f804c91e16982da939fcf989ad841584233fff3de872e58c.m3u8
-#EXTINF:-1 tvg-name="J2f" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J2",[BD]J2
+#EXTINF:-1 tvg-name="J2f" tvg-id="6" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J2",[BD]J2
 https://stream1.freetv.fun/199234d20cb56c2aa79d2bd22fb48a19273fe6efd72f07127fcd7c1aeb856847.ctv
-#EXTINF:-1 tvg-name="J2g" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J2",[VGA]J2
+#EXTINF:-1 tvg-name="J2g" tvg-id="7" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J2",[VGA]J2
 https://stream1.freetv.fun/2219177e4ff2f604f06c82fb65ea76548242edadde3979416047487569b13ba7.m3u8
-#EXTINF:-1 tvg-name="J2h" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J2",[HD]J2
+#EXTINF:-1 tvg-name="J2h" tvg-id="8" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J2",[HD]J2
 https://stream1.freetv.fun/c3cd3ca8247ddea5e44ca119f668e878189bec8f3e5900df6da554abb9117b7a.m3u8
-#EXTINF:-1 tvg-name="J2i" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J2",[BD]J2
+#EXTINF:-1 tvg-name="J2i" tvg-id="9" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J2",[BD]J2
 https://stream1.freetv.fun/cf771efb6d9315d9de352eec32c8d4e1c6b2fad52898c1ce092977aefd0de807.ctv
