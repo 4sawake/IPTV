@@ -19,3 +19,13 @@ https://stream1.freetv.fun/35be49526efe9576baa6ecdfacd7c7b7a91e12d4991a5c65bebfe
 https://stream1.freetv.fun/0588a4627434f713ed54f5f3c49d0b4820136436b66cda56f8238b06306a20e6.m3u8
 #EXTINF:-1 tvg-name="J19" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J2_1",[BD]9J1
 https://stream1.freetv.fun/b996dd550768a18d19dbc153fa89886a83e077c384455daea3beea366092c826.ctv
+#EXTINF:-1 tvg-name="J10" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J2_2",[BD]0J1
+https://stream1.freetv.fun/fec834be45394d12f804c91e16982da939fcf989ad841584233fff3de872e58c.m3u8
+#EXTINF:-1 tvg-name="J11" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J2_2",[BD]1J1
+https://stream1.freetv.fun/c3cd3ca8247ddea5e44ca119f668e878189bec8f3e5900df6da554abb9117b7a.m3u8
+#EXTINF:-1 tvg-name="J12" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J2_2",[BD]2J1
+https://stream1.freetv.fun/199234d20cb56c2aa79d2bd22fb48a19273fe6efd72f07127fcd7c1aeb856847.ctv
+#EXTINF:-1 tvg-name="J13" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J2_2",[BD]3J1
+https://stream1.freetv.fun/cf771efb6d9315d9de352eec32c8d4e1c6b2fad52898c1ce092977aefd0de807.ctv
+#EXTINF:-1 tvg-name="J14" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J2_2",[BD]4J1
+https://stream1.freetv.fun/2219177e4ff2f604f06c82fb65ea76548242edadde3979416047487569b13ba7.m3u8
