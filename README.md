@@ -8,3 +8,4 @@ J2_250411.txt  J2 (TVB Plus) imported from TVB250411  3 channels work.
 
 J3_250411.txt  J3 (TVB news) imported from TVB250411  6 channels work.
 
+JP_250412.txt  J3 (TVB news) imported from TVB250411  ? channels work.
