@@ -14,6 +14,14 @@ https://stream1.freetv.fun/44bd1ba645adb14b4f6ea64c0fd9764c02a373898e39bff7c06dc
 https://stream1.freetv.fun/bcc3b37d4563a9b1907324fc914e8a5f60d904fd6e0edaea3c4b63c356c57a55.m3u8
 #EXTINF:-1 tvg-name="J1j" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title=“J1n”,[BD]jJ1
 https://stream1.freetv.fun/ad698c68f995a760534e836438ea8e8bc65abf16cd0ed1d6b8e005cd9b90913c.m3u8
+#EXTINF:-1 tvg-name="J1p" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1",[BD]pJ1
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-name="J17" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1",[BD]7J1
+http://php.jdshipin.com/smt.php?id=jade_twn
+#EXTINF:-1 tvg-name="J18" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1",[BD]8J1
+http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
+#EXTINF:-1 tvg-name="J19" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1",[BD]9J1
+http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 #EXTINF:-1 tvg-name="J1k" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title=“J1n”,[BD]kJ1[geo-blocked]
 https://stream1.freetv.fun/ff3205f993bc272535d52c71efd9827d5eeb120b4902f091037e43ad269923b0.m3u8
 #EXTINF:-1 tvg-name="J1l" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title=“J1n”,[BD]lJ1[geo-blocked]
@@ -28,25 +36,24 @@ https://stream1.freetv.fun/3bd92ecf4addfeef82a8c52473660ae86f785172a1be2f7fb17b1
 https://stream1.freetv.fun/ba009d94229ed40a5d9289178463fba7aa31fb0622f8ab2d66c01147828743ab.m3u8
 #EXTINF:-1 tvg-name="J1c" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title=“J1n”,[BD]cJ1[geo-blocked]
 https://stream1.freetv.fun/9d4fa7779c923ec2103a461f5d8c22275532ee65b176d1c476ce727188ee512f.m3u8
-#EXTINF:-1 tvg-name="J1p" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1",[BD]pJ1
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-#EXTINF:-1 tvg-name="J1q" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1_3",[BD]qJ1
+
+#EXTINF:-1 tvg-name="J10" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1_3",[BD]0J1
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
-#EXTINF:-1 tvg-name="J1r" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1_3",[BD]rJ1
+#EXTINF:-1 tvg-name="J11" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1_3",[BD]1J1
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
-#EXTINF:-1 tvg-name="J1s" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1_3",[BD]sJ1
+#EXTINF:-1 tvg-name="J12" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1_3",[BD]2J1
 https://cdn3.163189.xyz/live/j1/stream.m3u8
-#EXTINF:-1 tvg-name="J1t" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1_3",[BD]tJ1
+#EXTINF:-1 tvg-name="J13" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1_3",[BD]3J1
 https://cdn3.163189.xyz/live/fct/stream.m3u8
-#EXTINF:-1 tvg-name="J1u" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1_3",[BD]uJ1
+#EXTINF:-1 tvg-name="J14" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1_3",[BD]4J1
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-#EXTINF:-1 tvg-name="J1v" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1_3",[BD]vJ1
+#EXTINF:-1 tvg-name="J15" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1_3",[BD]5J1
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
-#EXTINF:-1 tvg-name="J1w" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1_3",[BD]wJ1
+#EXTINF:-1 tvg-name="J16" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1_3",[BD]6J1
 http://222.128.55.152:9080/live/gdfc.m3u8
-#EXTINF:-1 tvg-name="J1x" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1_3",[BD]xJ1
+#EXTINF:-1 tvg-name="J17" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1_3",[BD]7J1
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 tvg-name="J1y" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1_3",[BD]yJ1
+#EXTINF:-1 tvg-name="J18" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1_3",[BD]8J1
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-#EXTINF:-1 tvg-name="J1z" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1_3",[BD]zJ1
+#EXTINF:-1 tvg-name="J19" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="" group-title="J1_3",[BD]9J1
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
